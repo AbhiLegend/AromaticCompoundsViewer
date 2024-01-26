@@ -4,7 +4,7 @@ We are creating  web application using the Streamlit framework, designed to disp
 
 The web application provides an interactive and user-friendly interface for visualizing these chemical structures.
 
-##Molecule generation
+## Molecule generation
 
 Generating and Displaying Molecular Structures:
 For each SMILES string in the list:
